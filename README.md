@@ -21,6 +21,7 @@ Clone este repositório para o seu ambiente local:
 ```bash
 git clone https://github.com/seu-usuario/ExercicioPOO.git
 cd ExercicioPOO/typescript-project
+
 2. Instale as Dependências
 Instale as dependências do projeto usando o npm:
 
@@ -47,56 +48,19 @@ Se você quiser compilar e executar o projeto em um único comando, use:
 bash
 Copy
 npm run dev
-🗂 Estrutura do Projeto
-A estrutura do projeto é a seguinte:
 
-Copy
-ExercicioPOO/
-└── typescript-project/
-    ├── src/
-    │   ├── exercicio01/       # Exercício 01: Área do Retângulo
-    │   ├── exercicio02/       # Exercício 02: Lista de Tarefas
-    │   ├── exercicio03/       # Exercício 03: Sistema Bancário
-    │   ├── exercicio04/       # Exercício 04: Gerenciamento de Tarefas Pessoais
-    │   ├── exercicio05/       # Exercício 05: Calculadora de Formas Geométricas
-    │   ├── exercicio06/       # Exercício 06: Sistema de Cadastro de Produtos
-    │   ├── exercicio07/       # Exercício 07: Sistema de Notificações
-    │   ├── exercicio08/       # Exercício 08: Sistema de Pagamentos
-    │   ├── exercicio09/       # Exercício 09: Sistema de Relatórios
-    │   └── main.ts            # Arquivo principal que chama todos os exercícios
-    ├── .gitignore             # Arquivo para ignorar node_modules e outras pastas
-    ├── tsconfig.json          # Configuração do TypeScript
-    └── package.json           # Dependências e scripts do projeto
-📝 Exercícios Implementados
-Exercício 01: Cálculo da área de um retângulo (versão orientada a objetos).
+## 🛠 Scripts Disponíveis
 
-Exercício 02: Gerenciamento de uma lista de tarefas (to-do list).
+- **`npm run build`**: Compila o código TypeScript para JavaScript.
+- **`npm run start`**: Executa o código compilado.
+- **`npm run dev`**: Compila e executa o projeto em sequência.
+- **`npm run clean`**: Limpa a pasta `dist` (opcional).
 
-Exercício 03: Simulação de um sistema bancário simples (contas, depósitos e saques).
+## 📄 Licença
 
-Exercício 04: Gerenciamento de tarefas pessoais (adicionar, marcar como concluída e listar tarefas).
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-Exercício 05: Calculadora de formas geométricas (área e perímetro de retângulos e círculos).
+---
 
-Exercício 06: Sistema de cadastro de produtos (atualizar preço e exibir relatório).
-
-Exercício 07: Sistema de notificações (e-mail, SMS e push notification).
-
-Exercício 08: Sistema de pagamentos (cartão de crédito, PayPal e boleto).
-
-Exercício 09: Sistema de relatórios (geração de relatórios em PDF, Excel e HTML).
-
-🛠 Scripts Disponíveis
-npm run build: Compila o código TypeScript para JavaScript.
-
-npm run start: Executa o código compilado.
-
-npm run dev: Compila e executa o projeto em sequência.
-
-npm run clean: Limpa a pasta dist (opcional).
-
-📄 Licença
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
-
-Feito com ❤️ por Angiel
+Feito com ❤️ por **Angiel**
 
