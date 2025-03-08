@@ -98,4 +98,5 @@ npm run clean: Limpa a pasta dist (opcional).
 📄 Licença
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
-Feito com ❤️ por Seu Nome
+Feito com ❤️ por Angiel
+
