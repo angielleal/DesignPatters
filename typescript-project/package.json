@@ -1,0 +1,19 @@
+{
+  "name": "exerciciopoo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc", 
+    "start": "node dist/main.js", 
+    "clean": "rm -rf dist", 
+    "dev": "npm run build && npm run start" 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.8.2",
+    "@types/node": "^20.11.1"
+  }
+}
